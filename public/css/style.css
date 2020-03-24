@@ -1,0 +1,58 @@
+.logo {
+    width: 50px;
+}
+
+.carousel {
+    width: 700px;
+    padding-left: 50px;
+}
+
+h2 {
+    color: #137a63;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+p {
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+/* 
+#article {
+    padding-left: 50px;
+    padding-right: 1000px;
+} */
+
+img {
+    width: 100%;
+}
+
+#articlesText {
+    text-align: justify;
+}
+
+#animalImg {
+    width: 100%;
+}
+
+.container {
+    background-color: #E3F4EC;
+    padding: 10px;
+    margin: auto;
+    text-align: justify;
+}
+
+.overall {
+    padding:50px;
+}
+
+a {
+    color: #6B8F71;
+    font-weight: bold;
+  }
+
+#error {
+    color: #0a3a2a;
+}
